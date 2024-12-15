@@ -2,6 +2,8 @@ body {
     text-align: center;
     margin-top:20vh;
     font-size:1.5rem;
+    background:rgb(32, 42, 44);
+    color:white;
 }
 
 .button {
